@@ -11,6 +11,7 @@
   inputs.src-hldiff-v0_2.ref   = "refs/tags/v0.2";
   inputs.src-hldiff-v0_2.owner = "c-blake";
   inputs.src-hldiff-v0_2.repo  = "hldiff";
+  inputs.src-hldiff-v0_2.dir   = "";
   inputs.src-hldiff-v0_2.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";

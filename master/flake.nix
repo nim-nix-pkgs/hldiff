@@ -11,6 +11,7 @@
   inputs.src-hldiff-master.ref   = "refs/heads/master";
   inputs.src-hldiff-master.owner = "c-blake";
   inputs.src-hldiff-master.repo  = "hldiff";
+  inputs.src-hldiff-master.dir   = "";
   inputs.src-hldiff-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
